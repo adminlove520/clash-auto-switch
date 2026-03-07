@@ -239,3 +239,8 @@ MIT
 ## 更新日志
 
 See [CHANGELOG.md](./CHANGELOG.md)
+
+## 文档
+
+- [OpenClaw Skill 安装指南](./docs/openclaw.md) - 详细的 OpenClaw 安装配置
+- [原始 README](./README.md)
